@@ -21,9 +21,9 @@ _Frontiers in Education_.
 For a full list of publications, translations, and working papers, see my CV.
 
 ## Teaching
-- Co-instructor, Education Policy Evaluation (Master’s level), GLOBED Programme, University of Bremen  
-- Guest lecturer, International Actors in Education and Development  
-- Instructor, GLOBED Winter School (Thessaloniki, 2026)
+- **Co-instructor**, _Education Policy Evaluation_ (Master’s level), GLOBED Programme, University of Bremen  
+- **Guest lecturer**, _International Actors in Education and Development_  
+- **Instructor**, GLOBED Winter School (Thessaloniki, 2026)
 
 ## Professional & Research Experience
 I have research and professional experience at the intersection of education policy, international organizations, and **education technology**, with a strong emphasis on team-based research, project coordination, and policy-oriented work.
