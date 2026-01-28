@@ -34,6 +34,11 @@ Prior to my PhD, I worked as a **Senior Product Manager** in the education secto
 
 Across both academic and professional settings, I have extensive experience in collaborative work, project management, and knowledge translation between research, policy, and practice.
 
+## Educations
+- Dr.rer.pol, University of Bremen, Germany (in progress)
+- Master of Education, Harvard University, USA
+- Bachelor of Science, International Politics, Georgetown University, USA
+
 ## Links
 - [CV (PDF)](Bao_CV_202601.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=Kl0jnr0AAAAJ&hl=en)
