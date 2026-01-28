@@ -34,5 +34,5 @@ Across both academic and professional settings, I have extensive experience in c
 
 ## Links
 - [CV (PDF)](Bao_CV_202601.pdf)
-- [Google Scholar] (https://scholar.google.com/citations?user=Kl0jnr0AAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=Kl0jnr0AAAAJ&hl=en)
 - Email: bao1@uni-bremen.de
