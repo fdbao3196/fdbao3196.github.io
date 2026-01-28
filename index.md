@@ -6,7 +6,8 @@ Also refer as 'Diana'
 ## Research
 I am a PhD candidate working on international organizations, global governance, and education policy, with a regional focus on China and East Asia.
 
-My research examines how international organizations (e.g. the World Bank, Asian Development Bank, UNESCO) engage with national education systems, and how global policy ideas are translated, adapted, or selectively adopted in different political contexts.
+My research examines how international organizations (e.g. the World Bank, Asian Development Bank, UNESCO) engage with national education systems, and how global policy ideas are translated, adapted, or selectively adopted in different political contexts.  
+
 Methodologically, I use mixed methods, combining qualitative policy analysis and interviews with quantitative text-as-data approaches.
 
 ## Publications (selected)
