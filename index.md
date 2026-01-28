@@ -8,7 +8,7 @@ I am a PhD candidate working on **international organizations**, **global govern
 
 My research examines how international organizations (e.g. the World Bank, Asian Development Bank, UNESCO) engage with national education systems, and how global policy ideas are translated, adapted, or selectively adopted in different political contexts.  
 
-Methodologically, I use mixed methods, combining qualitative policy analysis and interviews with quantitative text-as-data approaches.
+Methodologically, I use **mixed methods**, combining **qualitative policy analysis** and **interviews** with **quantitative text-as-data approaches**.
 
 ## Publications (selected)
 - **Bao, Fangyue** (2026). Shifting engagement: Education lending by the World Bank and ADB in China (1980s–2020s).
