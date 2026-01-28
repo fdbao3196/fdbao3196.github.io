@@ -20,7 +20,9 @@ For a full list of publications, translations, and working papers, see my CV.
 
 ## Teaching
 Co-instructor, Education Policy Evaluation (Master’s level), GLOBED Programme, University of Bremen
+
 Guest lecturer, International Actors in Education and Development
+
 Instructor, GLOBED Winter School (Thessaloniki, 2026)
 
 ## Professional & Research Experience
