@@ -16,7 +16,7 @@ Bao, Fangyue, Kerstin Martens, & Michael Windzio (2025).
 Education policy between persistence and change: Grand transformation processes and cultural spheres in the case of Cambodia.
 _Frontiers in Education_.
 
-For a full list of publications, translations, and working papers, see my CV.
+*For a full list of publications, translations, and working papers, see my CV.
 
 ## Teaching
 Co-instructor, Education Policy Evaluation (Master’s level), GLOBED Programme, University of Bremen
