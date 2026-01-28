@@ -33,6 +33,6 @@ Prior to my PhD, I worked as a Senior Product Manager in the education sector in
 Across both academic and professional settings, I have extensive experience in collaborative work, project management, and knowledge translation between research, policy, and practice.
 
 ## Links
-- CV (PDF)
-- Google Scholar
+- [CV (PDF)](Bao_CV_202601.pdf)
+- [Google Scholar] (https://scholar.google.com/citations?user=Kl0jnr0AAAAJ&hl=en)
 - Email: bao1@uni-bremen.de
