@@ -1,6 +1,7 @@
 # Fangyue Bao
 
 PhD Candidate, University of Bremen
+Also refer as 'Diana' 
 
 ## Research
 I am a PhD candidate working on international organizations, global governance, and education policy, with a regional focus on China and East Asia.
